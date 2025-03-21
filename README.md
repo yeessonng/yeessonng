@@ -13,6 +13,4 @@ hi!
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 </div>
 
-<h3>Follow me</h3>
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브아이디)](https://github.com/yeessonng/github-readme-stats)
