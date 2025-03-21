@@ -15,6 +15,4 @@ hi!
 
 <br>
 
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=yeessonng)](https://github.com/yeessonng)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeessonng)](https://github.com/yeessonng/github-readme-stats)
