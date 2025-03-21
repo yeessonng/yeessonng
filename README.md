@@ -1,7 +1,7 @@
 hi!
 
 <!-- <img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white"> -->
-<!-- 기술스택 -->
+<!-- 기술스택ㄴ -->
 <h3>Skills ♥</h3>
 <div>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
