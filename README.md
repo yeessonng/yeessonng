@@ -1,5 +1,3 @@
-<h1>hi!</h1>
-
 <!-- <img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white"> -->
 <!-- 기술스택 -->
 <div align=center><h1>📚 STACKS</h1></div>
