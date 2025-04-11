@@ -1,4 +1,4 @@
-hi!
+<h1>hi!</h1>
 
 <!-- <img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white"> -->
 <!-- 기술스택 -->
@@ -51,7 +51,7 @@ hi!
 </div>
 
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yeessonng&utm_content=farm">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yeessonng&utm_content=farm" align=center>
 <img
   src="https://render.gitanimals.org/farms/yeessonng"
   width="600"
